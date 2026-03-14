@@ -5,7 +5,8 @@ React + TypeScript + Vite 项目模板，集成了 Biome 和 Tailwind CSS。
 ## 技术栈
 
 - **前端框架**: React 19 + TypeScript
-- **构建工具**: Vite 7
+- **构建工具**: Vite 8
+- **react compiler**: 默认开启react compiler 
 - **代码检查/格式化**: Biome
 - **样式**: Tailwind CSS 4
 - **Git Hooks**: lint-staged + simple-git-hooks
