@@ -1,4 +1,3 @@
 export default {
-	'*.{ts,tsx,js,jsx}': 'biome check --write',
-	'*.{json,css,md}': 'biome check --write',
+	'*.{ts,tsx,js,jsx,json,css,md}': 'biome check --write',
 };
